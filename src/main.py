@@ -1,2 +1,1 @@
-print('hello OSSW')
-fix for bug #1
+고급자료구조에서 살아남기
